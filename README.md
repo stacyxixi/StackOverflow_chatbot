@@ -1,6 +1,13 @@
 # Chatbot project
 
-This folder contains the starting code for the chatbot project.
+This folder contains the code for the chatbot project.
+
+## Instruction
+Train the bot with the ipython notebook to generate pickle files. Then run
+Python3 /path/main_bot.py --token="your token obtained from Telgram Messenger @BotFather"
+
+## Dependencies
+Docker container: akashin/coursera-aml-nlp
 
 ## Troubleshooting
 
